@@ -1,12 +1,16 @@
 teams:
-  - name: bookclub
+  - name: admins
     members:
       - peeweep
+    repositories_permissions:
+      admin:
+        - "*"
+  - name: maintainers
+    members:
       - slchris
       - ArchFeh
       - bekcpear
       - shiptux
     repositories_permissions:
-      # permissions = ["pull", "push", "admin", "maintain", "triage"];
-      - triage:
-          - "*" # all repositories
+      push:
+        - "*"
