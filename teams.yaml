@@ -1,0 +1,12 @@
+teams:
+  - name: bookclub
+    members:
+      - peeweep
+      - slchris
+      - ArchFeh
+      - bekcpear
+      - shiptux
+    repositories_permissions:
+      # permissions = ["pull", "push", "admin", "maintain", "triage"];
+      - triage:
+          - "*" # all repositories
