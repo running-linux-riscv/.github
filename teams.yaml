@@ -7,7 +7,7 @@ teams:
         - "*"
   - name: maintainers
     members:
-      - dlan
+      - dlan17
       - slchris
       - ArchFeh
       - bekcpear
