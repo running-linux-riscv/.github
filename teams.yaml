@@ -16,6 +16,8 @@ teams:
       - rabenda
       - Sakura286
       - Alexfanqi
+      - liangyongxiang
+      - q1248
     repositories_permissions:
       push:
         - "*"
