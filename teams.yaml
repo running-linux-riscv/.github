@@ -13,6 +13,9 @@ teams:
       - ArchFeh
       - bekcpear
       - shiptux
+      - rabenda
+      - Sakura286
+      - Alexfanqi
     repositories_permissions:
       push:
         - "*"
