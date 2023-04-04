@@ -2,22 +2,23 @@ teams:
   - name: admins
     members:
       - peeweep
+      - dlan17
     repositories_permissions:
       admin:
         - "*"
   - name: maintainers
     members:
       - XYenChi
-      - dlan17
       - slchris
       - ArchFeh
       - bekcpear
       - shiptux
-      - rabenda
       - Sakura286
-      - Alexfanqi
       - liangyongxiang
       - q1248
+      - Jingwiw
+      - sihuan
+      - jchzhou
     repositories_permissions:
       push:
         - "*"
