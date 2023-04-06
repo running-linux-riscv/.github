@@ -19,6 +19,7 @@ teams:
       - Jingwiw
       - sihuan
       - jchzhou
+      - sunmin89
     repositories_permissions:
       push:
         - "*"
